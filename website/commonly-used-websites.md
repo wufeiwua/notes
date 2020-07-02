@@ -19,6 +19,8 @@
 - [Hutool — A set of tools that keep Java sweet.](https://hutool.cn)
 - [Gradle | Build Tool](https://gradle.org/)
 - [IBM](https://www.ibm.com/cn-zh)
+- [Vue.js](https://cn.vuejs.org/)
+- [JetBrains | IntelliJ Platform SDK](https://www.jetbrains.org/intellij/sdk/docs/intro/welcome.html)
 
 
 ## Tools

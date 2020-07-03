@@ -21,6 +21,7 @@
 - [IBM](https://www.ibm.com/cn-zh)
 - [Vue.js](https://cn.vuejs.org/)
 - [JetBrains | IntelliJ Platform SDK](https://www.jetbrains.org/intellij/sdk/docs/intro/welcome.html)
+- [JetBrains | HELP](https://www.jetbrains.com/help/idea/discover-intellij-idea.html)
 
 
 ## Tools

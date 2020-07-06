@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>input-demo</title>
+</head>
+<body>
+  <style>
+    :root {
+      font-size: 62.5%;
+    }
+    body {
+      padding: 0;
+      margin: 0;
+    }
+
+    .m-input {
+      position: relative;
+      margin: 5px 0;
+      padding: 0 5px;
+      border-radius: 4px;
+      /* box-sizing: border-box; */
+      width: 200px;
+    }
+
+    .m-input input[type="text"] {
+      display: inline-block;
+      box-sizing: border-box;
+      height: 40px;
+      line-height: 40px;
+      width: 100%;
+      outline: 0;
+      background-color: #fff;
+      border: 1px solid #eee;
+      transition: border-color .2s;
+      border-radius: 4px;
+      padding: 0 30px 0 5px;
+    }
+
+    .m-input input[type="text"]:focus{
+      border: 1px solid #75ADFF;
+    }
+
+    .m-input input[type="text"]::placeholder{
+      color: #bbb;
+    }
+
+    .suffix {
+      position: absolute;
+      top: 0;
+      right: 5px;
+      text-align: center;
+      display: inline-block;
+      height: 40px;
+      line-height: 40px;
+      box-sizing: border-box;
+    }
+
+    .x::before {
+      content: 'X';
+      display: inline-block;
+      line-height: 40px;
+      width: 30px;
+    }
+
+    
+  </style>
+</head>
+
+<body>
+  <div class="m-input">
+    <input type="text" placeholder="请输入密码">
+    <span class="suffix"><i class="x"></i></span>
+  </div>
+</body>
+</body>
+</html>

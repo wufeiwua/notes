@@ -52,3 +52,4 @@
 - [Git - Book](https://git-scm.com/book/zh/v2)
 - [CS-Notes](https://cyc2018.github.io/CS-Notes/#/README)
 - [JavaGuide | java学习](https://snailclimb.gitee.io/javaguide/#/)
+- [On Java 8](https://lingcoder.github.io/OnJava8/#/sidebar)
